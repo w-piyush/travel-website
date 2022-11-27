@@ -54,8 +54,8 @@
 
    <div class="content">
       <h3>why choose us?</h3>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure numquam nulla iusto corporis dolor commodi libero, vitae obcaecati optio rerum ab culpa nesciunt, earum mollitia quasi ipsam non. Aliquid, iure.</p>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid rerum, delectus voluptate aliquam quaerat iusto repellendus error nulla ab atque.</p>
+      <p>We aim to make it easier for users to enjoy a hassle-free tour, provide them with all kinds of affordable and well-planned trips and tours to their favorite places.</p>
+      <p>We also strive to allow you all to plan trips according to your feasibility. We hope that we help in giving our users a great and hassle-free experience in planning your trips.Happy WanderLusting !!!!</p>
       <div class="icons-container">
          <div class="icons">
             <i class="fas fa-map"></i>

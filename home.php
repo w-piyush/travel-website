@@ -144,7 +144,7 @@
 
    <div class="content">
       <h3>about us</h3>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita et, recusandae nobis fugit modi quibusdam ea assumenda, nulla quisquam repellat rem aliquid sequi maxime sapiente autem ipsum? Nobis, provident voluptate?</p>
+      <p>We are an user-friendly site that will help our audience to plan affordable and interesting trips. Our users can utilize the features of this website to either make use of the functionalities or keep themselves updated about the same.The website is an interactive platform wherein the users primarily focus on the destinations they want to go to and the itineraries they prefer.</p>
       <a href="about.php" class="btn">read more</a>
    </div>
 
