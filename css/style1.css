@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600&display=swap');
+
+:root{
+    --main-color:#8e44ad;
+    --black:#222;
+    --white:#fff;
+    --blue:#0000ff;
+    --teal:#008080;
+    --red:#ff0000;
+    --light-black:#777;
+    --light-white:#fff9;
+    --dark-bg:rgba(0,0,0,.7);
+    --light-bg:#eee;
+    --border:.1rem solid var(--black);
+    --box-shadow:0 .5rem 1rem rgba(0,0,0,.1);
+    --text-shadow:0 1.5rem 3rem rgba(0,0,0,.3);
+ }
+
+
+ 
+ .container{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:20px;
+    padding-bottom: 60px;
+}
+
+.container .content{
+    text-align: center;
+}
+
+.container .content h3{
+    font-size: 30px;
+    color: var(--black);
+}
+
+.container .content h3 span{
+    background:var(--main-color) ;
+    color: #eee;
+    border-radius: 5px;
+    padding:0 15px;
+}
+
+.container .content h1{
+    font-size: 50px;
+    color:var(--black);
+}
+
+.container .content h1 span{
+    color:var(--main-color);
+}
+
+.container .content p{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.container .content .btn{
+    display: inline-block;
+    padding:10px 30px;
+    font-size: 20px;
+    background:#222;
+    color:#eee;
+    margin:0 5px;
+    text-transform: capitalize;
+}
+
+.container .content .btn:hover{
+    background: var(--main-color);
+}
+
+
+
+    
+.form-container {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:15px;
+    padding-bottom: 60px;
+   
+}
+
+.form-container form{
+    padding:15px;
+    border-radius: 5px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.1);
+    background: #fff;
+    text-align: center;
+    width: 500px;
+}
+
+.form-container form h3{
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    color:#222;
+}
+
+.form-container form input,
+.form-container form select{
+    width: 100%;
+    padding:8px 10px;
+    font-size: 17px;
+    margin:8px 0;
+    background: #eee;
+    border-radius: 5px;
+}
+
+.form-container form select option{
+    background: #eee;
+}
+
+.form-container form .form-btn{
+    background:var(--light-bg);
+    color:var(--main-color);
+    text-transform: capitalize;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.form-container form .form-btn:hover{
+    background: #8e44ad;
+    color: #eee;
+}
+
+.form-container form p{
+    margin-top: 10px;
+    font-size: 20px;
+    color: #777;
+}
+
+.form-container form p a{
+    color: #8e44ad;
+}
+
+.form-container form .error-msg{
+    margin:10px 0;
+    display: block;
+    background:var(--main-color);
+    color: #eee;
+    border-radius: 5px;
+    font-size: 20px;
+    padding:10px;
+}
